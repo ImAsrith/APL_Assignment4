@@ -1,0 +1,260 @@
+{
+  "employee7": {
+    "name": "David",
+    "prefs": [
+      "Afternoon",
+      "Evening"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Evening"
+      ],
+      [
+        "Thursday",
+        "Afternoon"
+      ],
+      [
+        "Thursday",
+        "Evening"
+      ],
+      [
+        "Friday",
+        "Afternoon"
+      ],
+      [
+        "Friday",
+        "Evening"
+      ]
+    ]
+  },
+  "employee6": {
+    "name": "Adam",
+    "prefs": [
+      "Evening",
+      "Morning"
+    ],
+    "days_worked": 3,
+    "shifts_assigned": [
+      [
+        "Saturday",
+        "Evening"
+      ],
+      [
+        "Sunday",
+        "Morning"
+      ],
+      [
+        "Sunday",
+        "Evening"
+      ]
+    ]
+  },
+  "employee4": {
+    "name": "John",
+    "prefs": [
+      "Afternoon",
+      "Morning"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Afternoon"
+      ],
+      [
+        "Thursday",
+        "Morning"
+      ],
+      [
+        "Thursday",
+        "Afternoon"
+      ],
+      [
+        "Friday",
+        "Afternoon"
+      ],
+      [
+        "Saturday",
+        "Morning"
+      ]
+    ]
+  },
+  "employee9": {
+    "name": "Jack",
+    "prefs": [
+      "Evening",
+      "Morning"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Morning"
+      ],
+      [
+        "Tuesday",
+        "Evening"
+      ],
+      [
+        "Wednesday",
+        "Evening"
+      ],
+      [
+        "Thursday",
+        "Evening"
+      ],
+      [
+        "Friday",
+        "Morning"
+      ]
+    ]
+  },
+  "employee3": {
+    "name": "Sagar",
+    "prefs": [
+      "Afternoon",
+      "Evening"
+    ],
+    "days_worked": 4,
+    "shifts_assigned": [
+      [
+        "Saturday",
+        "Afternoon"
+      ],
+      [
+        "Sunday",
+        "Morning"
+      ],
+      [
+        "Sunday",
+        "Afternoon"
+      ],
+      [
+        "Sunday",
+        "Evening"
+      ]
+    ]
+  },
+  "employee2": {
+    "name": "Sam",
+    "prefs": [
+      "Afternoon",
+      "Evening"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Evening"
+      ],
+      [
+        "Tuesday",
+        "Afternoon"
+      ],
+      [
+        "Tuesday",
+        "Evening"
+      ],
+      [
+        "Wednesday",
+        "Afternoon"
+      ],
+      [
+        "Wednesday",
+        "Evening"
+      ]
+    ]
+  },
+  "employee1": {
+    "name": "Asrith",
+    "prefs": [
+      "Morning",
+      "Evening"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Afternoon"
+      ],
+      [
+        "Tuesday",
+        "Morning"
+      ],
+      [
+        "Wednesday",
+        "Morning"
+      ],
+      [
+        "Thursday",
+        "Morning"
+      ],
+      [
+        "Friday",
+        "Morning"
+      ]
+    ]
+  },
+  "employee5": {
+    "name": "David",
+    "prefs": [
+      "Afternoon",
+      "Morning"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Monday",
+        "Morning"
+      ],
+      [
+        "Tuesday",
+        "Morning"
+      ],
+      [
+        "Tuesday",
+        "Afternoon"
+      ],
+      [
+        "Wednesday",
+        "Morning"
+      ],
+      [
+        "Wednesday",
+        "Afternoon"
+      ]
+    ]
+  },
+  "employee8": {
+    "name": "Zakir",
+    "prefs": [
+      "Afternoon",
+      "Evening"
+    ],
+    "days_worked": 5,
+    "shifts_assigned": [
+      [
+        "Friday",
+        "Evening"
+      ],
+      [
+        "Saturday",
+        "Morning"
+      ],
+      [
+        "Saturday",
+        "Afternoon"
+      ],
+      [
+        "Saturday",
+        "Evening"
+      ],
+      [
+        "Sunday",
+        "Afternoon"
+      ]
+    ]
+  }
+}
