@@ -6,18 +6,14 @@
         "Morning",
         "Evening"
       ],
-      "days_worked": 5,
+      "days_worked": 4,
       "shifts_assigned": [
         [
-          "Wednesday",
+          "Monday",
           "Morning"
         ],
         [
           "Thursday",
-          "Evening"
-        ],
-        [
-          "Friday",
           "Morning"
         ],
         [
@@ -36,26 +32,14 @@
         "Afternoon",
         "Morning"
       ],
-      "days_worked": 5,
+      "days_worked": 2,
       "shifts_assigned": [
         [
           "Wednesday",
           "Afternoon"
         ],
         [
-          "Thursday",
-          "Afternoon"
-        ],
-        [
-          "Friday",
-          "Afternoon"
-        ],
-        [
           "Saturday",
-          "Afternoon"
-        ],
-        [
-          "Sunday",
           "Afternoon"
         ]
       ]
@@ -99,19 +83,19 @@
       "days_worked": 5,
       "shifts_assigned": [
         [
-          "Monday",
-          "Morning"
-        ],
-        [
           "Tuesday",
           "Morning"
         ],
         [
-          "Thursday",
+          "Wednesday",
           "Morning"
         ],
         [
           "Friday",
+          "Morning"
+        ],
+        [
+          "Saturday",
           "Morning"
         ],
         [
@@ -126,11 +110,15 @@
         "Afternoon",
         "Evening"
       ],
-      "days_worked": 4,
+      "days_worked": 5,
       "shifts_assigned": [
         [
           "Monday",
-          "Evening"
+          "Afternoon"
+        ],
+        [
+          "Tuesday",
+          "Afternoon"
         ],
         [
           "Friday",
@@ -152,26 +140,22 @@
         "Afternoon",
         "Evening"
       ],
-      "days_worked": 5,
+      "days_worked": 4,
       "shifts_assigned": [
-        [
-          "Monday",
-          "Afternoon"
-        ],
         [
           "Tuesday",
           "Afternoon"
         ],
         [
-          "Wednesday",
-          "Evening"
-        ],
-        [
-          "Friday",
-          "Evening"
+          "Thursday",
+          "Afternoon"
         ],
         [
           "Saturday",
+          "Evening"
+        ],
+        [
+          "Sunday",
           "Afternoon"
         ]
       ]
@@ -182,23 +166,11 @@
         "Afternoon",
         "Evening"
       ],
-      "days_worked": 5,
+      "days_worked": 2,
       "shifts_assigned": [
         [
-          "Monday",
+          "Wednesday",
           "Afternoon"
-        ],
-        [
-          "Tuesday",
-          "Evening"
-        ],
-        [
-          "Thursday",
-          "Afternoon"
-        ],
-        [
-          "Saturday",
-          "Evening"
         ],
         [
           "Sunday",
@@ -231,7 +203,7 @@
           "Morning"
         ],
         [
-          "Saturday",
+          "Friday",
           "Morning"
         ]
       ]
@@ -242,18 +214,56 @@
         "Afternoon",
         "Morning"
       ],
-      "days_worked": 3,
+      "days_worked": 5,
       "shifts_assigned": [
         [
-          "Tuesday",
+          "Monday",
           "Afternoon"
         ],
         [
-          "Wednesday",
+          "Thursday",
+          "Afternoon"
+        ],
+        [
+          "Friday",
+          "Afternoon"
+        ],
+        [
+          "Saturday",
           "Afternoon"
         ],
         [
           "Sunday",
+          "Evening"
+        ]
+      ]
+    },
+    "E10": {
+      "name": "William",
+      "prefs": [
+        "Evening",
+        "Afternoon"
+      ],
+      "days_worked": 5,
+      "shifts_assigned": [
+        [
+          "Monday",
+          "Evening"
+        ],
+        [
+          "Tuesday",
+          "Evening"
+        ],
+        [
+          "Wednesday",
+          "Evening"
+        ],
+        [
+          "Thursday",
+          "Evening"
+        ],
+        [
+          "Friday",
           "Evening"
         ]
       ]
@@ -262,16 +272,16 @@
   "schedule": {
     "Monday": {
       "Morning": [
-        "E4",
+        "E1",
         "E8"
       ],
       "Afternoon": [
-        "E6",
-        "E7"
+        "E5",
+        "E9"
       ],
       "Evening": [
-        "E3",
-        "E5"
+        "E10",
+        "E3"
       ]
     },
     "Tuesday": {
@@ -280,68 +290,68 @@
         "E4"
       ],
       "Afternoon": [
-        "E6",
-        "E9"
+        "E5",
+        "E6"
       ],
       "Evening": [
         "E3",
-        "E7"
+        "E10"
       ]
     },
     "Wednesday": {
       "Morning": [
-        "E1",
+        "E4",
         "E8"
-      ],
-      "Afternoon": [
-        "E2",
-        "E9"
-      ],
-      "Evening": [
-        "E3",
-        "E6"
-      ]
-    },
-    "Thursday": {
-      "Morning": [
-        "E8",
-        "E4"
       ],
       "Afternoon": [
         "E7",
         "E2"
       ],
       "Evening": [
-        "E3",
-        "E1"
+        "E10",
+        "E3"
       ]
     },
-    "Friday": {
-      "Morning": [
-        "E4",
-        "E1"
-      ],
-      "Afternoon": [
-        "E5",
-        "E2"
-      ],
-      "Evening": [
-        "E3",
-        "E6"
-      ]
-    },
-    "Saturday": {
+    "Thursday": {
       "Morning": [
         "E1",
         "E8"
       ],
       "Afternoon": [
         "E6",
-        "E2"
+        "E9"
       ],
       "Evening": [
-        "E5",
-        "E7"
+        "E3",
+        "E10"
+      ]
+    },
+    "Friday": {
+      "Morning": [
+        "E4",
+        "E8"
+      ],
+      "Afternoon": [
+        "E9",
+        "E5"
+      ],
+      "Evening": [
+        "E3",
+        "E10"
+      ]
+    },
+    "Saturday": {
+      "Morning": [
+        "E1",
+        "E4"
+      ],
+      "Afternoon": [
+        "E2",
+        "E9"
+      ],
+      "Evening": [
+        "E6",
+        "E5"
       ]
     },
     "Sunday": {
@@ -350,7 +360,7 @@
         "E1"
       ],
       "Afternoon": [
-        "E2",
+        "E6",
         "E5"
       ],
       "Evening": [

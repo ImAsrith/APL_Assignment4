@@ -1,68 +1,26 @@
 {
-  "Tuesday": {
-    "Evening": [
-      "Adam",
-      "Jack"
-    ],
-    "Morning": [
-      "Asrith",
-      "Dravid"
-    ],
-    "Afternoon": [
-      "Sagar",
-      "David"
-    ]
-  },
   "Wednesday": {
     "Afternoon": [
-      "David",
-      "Zakir"
-    ],
-    "Morning": [
-      "Asrith",
-      "Dravid"
-    ],
-    "Evening": [
-      "Adam",
-      "Jack"
-    ]
-  },
-  "Thursday": {
-    "Evening": [
-      "Adam",
-      "David"
-    ],
-    "Morning": [
-      "Asrith",
-      "Jack"
-    ],
-    "Afternoon": [
-      "Zakir",
-      "Sam"
-    ]
-  },
-  "Saturday": {
-    "Morning": [
       "Dravid",
-      "John"
-    ],
-    "Evening": [
-      "Sam",
-      "David"
-    ],
-    "Afternoon": [
-      "Sagar",
       "Zakir"
-    ]
-  },
-  "Monday": {
-    "Morning": [
-      "Asrith",
-      "Dravid"
     ],
     "Evening": [
       "Adam",
+      "Sam"
+    ],
+    "Morning": [
+      "Asrith",
       "Jack"
+    ]
+  },
+  "Friday": {
+    "Morning": [
+      "Asrith",
+      "Adam"
+    ],
+    "Evening": [
+      "Jack",
+      "Sam"
     ],
     "Afternoon": [
       "Zakir",
@@ -70,31 +28,73 @@
     ]
   },
   "Sunday": {
+    "Afternoon": [
+      "Sam",
+      "Sagar"
+    ],
+    "Morning": [
+      "John",
+      "Dravid"
+    ],
+    "Evening": [
+      "David",
+      "Zakir"
+    ]
+  },
+  "Tuesday": {
+    "Morning": [
+      "Asrith",
+      "Adam"
+    ],
+    "Afternoon": [
+      "Sagar",
+      "David"
+    ],
+    "Evening": [
+      "Jack",
+      "Sam"
+    ]
+  },
+  "Monday": {
+    "Evening": [
+      "Jack",
+      "Zakir"
+    ],
+    "Afternoon": [
+      "John",
+      "David"
+    ],
+    "Morning": [
+      "Asrith",
+      "Adam"
+    ]
+  },
+  "Saturday": {
+    "Afternoon": [
+      "David",
+      "Sam"
+    ],
     "Morning": [
       "Dravid",
       "John"
-    ],
-    "Afternoon": [
-      "Sam",
-      "David"
     ],
     "Evening": [
       "Zakir",
       "Sagar"
     ]
   },
-  "Friday": {
+  "Thursday": {
     "Evening": [
       "Jack",
       "Adam"
     ],
+    "Afternoon": [
+      "Sagar",
+      "David"
+    ],
     "Morning": [
       "Asrith",
       "John"
-    ],
-    "Afternoon": [
-      "Sam",
-      "Sagar"
     ]
   }
 }

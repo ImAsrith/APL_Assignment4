@@ -203,7 +203,7 @@ fn generate_schedule(
                     }
                     if assign < 2 {
                         println!(
-                            "Not enough employees available for {} shift on {}",
+                            "Not enough employees available for {} shift on {}, Rescheduling...",
                             shift, day
                         );
                         continue 'outer;
