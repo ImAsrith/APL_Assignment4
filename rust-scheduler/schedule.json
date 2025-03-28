@@ -1,0 +1,100 @@
+{
+  "Tuesday": {
+    "Evening": [
+      "Adam",
+      "Jack"
+    ],
+    "Morning": [
+      "Asrith",
+      "Dravid"
+    ],
+    "Afternoon": [
+      "Sagar",
+      "David"
+    ]
+  },
+  "Wednesday": {
+    "Afternoon": [
+      "David",
+      "Zakir"
+    ],
+    "Morning": [
+      "Asrith",
+      "Dravid"
+    ],
+    "Evening": [
+      "Adam",
+      "Jack"
+    ]
+  },
+  "Thursday": {
+    "Evening": [
+      "Adam",
+      "David"
+    ],
+    "Morning": [
+      "Asrith",
+      "Jack"
+    ],
+    "Afternoon": [
+      "Zakir",
+      "Sam"
+    ]
+  },
+  "Saturday": {
+    "Morning": [
+      "Dravid",
+      "John"
+    ],
+    "Evening": [
+      "Sam",
+      "David"
+    ],
+    "Afternoon": [
+      "Sagar",
+      "Zakir"
+    ]
+  },
+  "Monday": {
+    "Morning": [
+      "Asrith",
+      "Dravid"
+    ],
+    "Evening": [
+      "Adam",
+      "Jack"
+    ],
+    "Afternoon": [
+      "Zakir",
+      "Sagar"
+    ]
+  },
+  "Sunday": {
+    "Morning": [
+      "Dravid",
+      "John"
+    ],
+    "Afternoon": [
+      "Sam",
+      "David"
+    ],
+    "Evening": [
+      "Zakir",
+      "Sagar"
+    ]
+  },
+  "Friday": {
+    "Evening": [
+      "Jack",
+      "Adam"
+    ],
+    "Morning": [
+      "Asrith",
+      "John"
+    ],
+    "Afternoon": [
+      "Sam",
+      "Sagar"
+    ]
+  }
+}
